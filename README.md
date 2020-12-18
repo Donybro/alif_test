@@ -2,7 +2,11 @@
 
 ## Project setup
 ```
-yarn install
+yarn install 
+```
+## Setup JSon Server
+```
+json-server --watch db.json
 ```
 
 ### Compiles and hot-reloads for development
